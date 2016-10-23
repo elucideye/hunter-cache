@@ -1,5 +1,0 @@
-environment:
-  global:
-    GITHUB_USER_PASSWORD:
-      secure: kyjDKQ1UqC4bIiyR3/E4e51y4sFmUCwrCMCt/9/13Nrt3FgdYzYDav7oeW5YfyBO
-      
