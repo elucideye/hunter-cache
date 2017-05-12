@@ -1,0 +1,1 @@
+set("DEPENDS_ON_PACKAGES" "xorg-macros" CACHE INTERNAL "")
