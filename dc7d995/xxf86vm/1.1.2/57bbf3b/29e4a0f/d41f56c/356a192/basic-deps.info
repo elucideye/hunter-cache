@@ -1,0 +1,6 @@
+x11
+xext
+xextproto
+xf86vidmodeproto
+xorg-macros
+xproto
