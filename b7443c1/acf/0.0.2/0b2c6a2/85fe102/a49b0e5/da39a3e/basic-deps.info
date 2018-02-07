@@ -1,0 +1,8 @@
+ARM_NEON_2_x86_SSE
+OpenCV
+cereal
+half
+ogles_gpgpu
+spdlog
+sse2neon
+sugar
