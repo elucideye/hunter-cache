@@ -1,9 +1,0 @@
-ARM_NEON_2_x86_SSE
-OpenCV
-cereal
-check_ci_tag
-half
-ogles_gpgpu
-spdlog
-sse2neon
-sugar
