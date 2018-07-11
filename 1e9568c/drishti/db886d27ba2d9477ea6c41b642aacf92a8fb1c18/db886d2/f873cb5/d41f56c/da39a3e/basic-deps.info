@@ -1,0 +1,23 @@
+ARM_NEON_2_x86_SSE
+Boost
+Boost filesystem
+Boost system
+Eigen
+OpenCV
+acf
+aglet
+cereal
+check_ci_tag
+cxxopts
+dlib
+drishti_assets
+drishti_faces
+glm
+half
+nlohmann_json
+ogles_gpgpu
+spdlog
+sse2neon
+sugar
+thread-pool-cpp
+xgboost
